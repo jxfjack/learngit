@@ -1,2 +1,7 @@
-<<<<<<< HEAD
-tianshizhixin中产阶级斗争....master add news.
+
+
+public static AAJD{
+	public static void main(int[] args){
+		println("assssssa");
+	}
+}
