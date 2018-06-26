@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ....master add news.
+=======
+...dev2 add m
+>>>>>>> dev2
