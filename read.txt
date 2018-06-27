@@ -1,7 +1,10 @@
 
-
 public static AAJD{
 	public static void main(int[] args){
 		println("assssssa");
 	}
 }
+
+2018/6/27 read the file at line 9.
+...dev2 add m
+
